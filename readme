@@ -1,10 +1,11 @@
-
+need:
 php version 8.2
 larvel 11
 composer
 php artisan serve
+project url http://127.0.0.1:8000/productf/create
 
-
+use project cmd 
 step 1.composer create-project laravel/laravel:^11.0 Youtobecrud
 step 2.php artisan make migration create_products_table
 step 3.php artisan make:migration create_products_table
@@ -12,15 +13,11 @@ step 4.php artisan migrate
 step 5.php artisan:make controller ProductController
 step 6.php artisan make:model Product
 
-php artisan route:list
-GET|HEAD  / ........................................................................................................................................................
-  POST      _ignition/execute-solution ................................................. ignition.executeSolution › Spatie\LaravelIgnition › ExecuteSolutionController
-  GET|HEAD  _ignition/health-check ............................................................. ignition.healthCheck › Spatie\LaravelIgnition › HealthCheckController
-  POST      _ignition/update-config .......................................................... ignition.updateConfig › Spatie\LaravelIgnition › UpdateConfigController
-  GET|HEAD  productf ........................................................................................................ productf.index › ProductController@index
-  POST      productf ........................................................................................................ productf.store › ProductController@store
-  GET|HEAD  productf/create ............................................................................................... productf.create › ProductController@create
-  PUT       productf/{id} ................................................................................................. productf.update › ProductController@update
-  DELETE    productf/{id} ............................................................................................... productf.destroy › ProductController@destroy
-  GET|HEAD  productf/{id}/edit ................................................................................................ productf.edit › ProductController@edit
-  GET|HEAD  up ...
+myYoutobe:
+https://www.youtube.com/channel/UCv8E-Tioi1L9Bpx0mlAiCCg
+
+Instrgarm:
+https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbG4zSmF1R0RYRmF1QUxkX19COTVOQnpDMGV5Z3xBQ3Jtc0tsUzd6X0tmMzU3Q3kteVJ4dlRFcmNEdVhkQnFjbVNSekNMSUxJTHdBa211eVVNbzhPQzBrN2hlN29tVk1ycV9SOFl2dFN3QWhjY0tmU05sQXFwYzBSTk9YQ2FUY2U1aENrV0NOQmx5cjRhbmhVNFp0cw&q=https%3A%2F%2Fwww.instagram.com%2Frupeshtechnology%3Figsh%3DanBsbmxxZm44YXYw
+
+facebookPage:
+https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa3lUTE14UGVZSjRJN3Nub1hxNVVvMGVXNmxNQXxBQ3Jtc0ttMmswZzhhdDFDakhMMDhuU3FUVFY4bG83SExxMFNFeDhTVUx2UkFtc3hEalItZkVIWEdENGV6Q2UwX2UyUWgzQk1GMG8xVXhrdTlwTUxnNzhEaEZkdUtWU1VXTktkYUJxTHc3Wk03d1R0cEZpbENVbw&q=https%3A%2F%2Fwww.facebook.com%2Frupeshtechnologieswebsoftware%3Fmibextid%3DZbWKwL
